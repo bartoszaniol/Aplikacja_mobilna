@@ -1,4 +1,4 @@
-# halo_mobilki
+# Programowanie Zespolowe
 
 A new Flutter project.
 
