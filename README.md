@@ -1,4 +1,4 @@
-# Programowanie Zespolowe
+# Aplikacja mobilna
 
 A new Flutter project.
 
